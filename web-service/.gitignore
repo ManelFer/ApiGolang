@@ -1,0 +1,28 @@
+# Binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de build
+bin/
+dist/
+
+# Dependências (se não versionar)
+vendor/
+
+# Arquivos de teste
+*.test
+coverage.out
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.env
